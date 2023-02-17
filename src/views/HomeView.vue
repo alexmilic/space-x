@@ -1,5 +1,8 @@
 <template>
-  <main>
-    <h1>Home view</h1>
-  </main>
+  <the-header></the-header>
 </template>
+
+<script setup lang="ts">
+  import TheHeader from '@/components/TheHeader.vue';
+
+</script>
